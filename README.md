@@ -32,6 +32,22 @@ TBD
 
 ## Planned Games
 
-* Pong
-* Breakout
-* Tron Lightcycles
+The games that are being created in the classes are hosted in their own repositories with instructions on how to get each of their code bases up and running separately.
+
+### Pong
+
+[Repository]()
+
+We begin with Pong, a classic single player game with minimal moving pieces and a very simple AI. This is the perfect project for learning the basics of Rust and GGEZ.
+
+### Breakout
+
+[Repository]()
+
+Breakout is a great follow up project to pong as it is very similar in complexity. In this game we are going to be breaking our code out into libraries and implementing Testing to ensure that our code works as we expect it to.
+
+### Snake
+
+[Repository]()
+
+We'll be working with Threads and Networking in this game by making it a multiplayer game. Two snakes battling it out to see who wins.
