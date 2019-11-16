@@ -14,40 +14,12 @@ I recommend that you are familiar with JavaScript in order to get the most out o
 
 ## Companion Videos
 
-All the code written in this repository will be / was live streamed on [Twitch.tv](https://www.twitch.tv/brookzerker). The streams remain on Twitch.tv for two weeks before they are automatically removed. I will not be archiving these videos to YouTube like other streams as I'm creating a paid course on Teachable with this content.
+All the code written in this repository will be / was live streamed on [Twitch.tv](https://www.twitch.tv/brookzerker). The streams remain on Twitch.tv for two weeks before they are automatically removed. I will not be archiving these videos to YouTube like other streams as I'm a Patreon account to host the archive videos on.
 
-## Teachable Course
+## How I choose the games
 
-Current Course Status: Pre Alpha
+I currently don't have a way to request what you want to see, instead I am creating a list of fun projects that I feel help stave off burnout while at the same time increasing our knowledge of languages and programming in general.
 
-I will be cutting the live streams into shorter videos and making them available on Teachable as part of a course.
+## Where the code will live
 
-As this is a new course for myself I will be releasing access in incremental tiers. We'll stay in beta until all of the content for the course has been released and we make sure that the content is up to my standards.
-
-If you purchase the course during the beta release cycles I'll be asking you to give me feedback as I build out the course so that I can make it as amazing as possible. When the course releases fully there won't be any extra fees, you'll have access to the course for as long as Teachable exists. I'm using them to host my content so that I don't have to build my own learning management system. I'm hoping that they will remain in business for a very long time.
-
-### Payment Tiers
-
-TBD
-
-## Planned Games
-
-The games that are being created in the classes are hosted in their own repositories with instructions on how to get each of their code bases up and running separately.
-
-### Pong
-
-[Repository]()
-
-We begin with Pong, a classic single player game with minimal moving pieces and a very simple AI. This is the perfect project for learning the basics of Rust and GGEZ.
-
-### Breakout
-
-[Repository]()
-
-Breakout is a great follow up project to pong as it is very similar in complexity. In this game we are going to be breaking our code out into libraries and implementing Testing to ensure that our code works as we expect it to.
-
-### Snake
-
-[Repository]()
-
-We'll be working with Threads and Networking in this game by making it a multiplayer game. Two snakes battling it out to see who wins.
+I'll be creating GitHub repositories for each tutorial as I make them. They will always be open source, so even if you aren't paying for the video archives, you can download the code and look through them.
